@@ -1,4 +1,6 @@
 .formControl{
-  width:30%;
+  width:auto;
   margin-bottom: 30px !important;
+  font-size: medium;
 }
+
